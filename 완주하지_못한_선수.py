@@ -1,3 +1,5 @@
+#https://programmers.co.kr/learn/courses/30/lessons/42576
+
 def solution(participant, completion):
     #문제의 포인트 : 완주하지못한 사람 "단 한명", 동명이인의 가능성 
         
